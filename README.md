@@ -54,7 +54,7 @@ map = binaryOccupancyMap(bwimage);
 show(map)
 ```
 ### 3) 작업 공간에 binaryOccupancyMap 생성 > 마우스 우클릭 > 다른 이름으로 저장 > map.mat로 저장
-### 3) Termproject_main.m 파일 열어서 Start point = InitPose 배열 수정(19) / Goal point = xTarget, yTarget 수정(45-47) 후 실행 
+### 4) Termproject_main.m 파일 열어서 Start point = InitPose 배열 수정(19) / Goal point = xTarget, yTarget 수정(45-47) 후 실행 
 ```mcode
 %% EXAMPLE: Differential Drive Path Following
 % In this example, a differential drive robot navigates a set of waypoints 
