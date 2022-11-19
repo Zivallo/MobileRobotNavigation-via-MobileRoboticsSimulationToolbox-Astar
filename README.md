@@ -1,4 +1,5 @@
-# Mobile Robot Navigation via Mobile Robotics Simulation Toolbox (A* Algorithm) / 2021년 2학기 디지털제어및실험 Term Project
+# Mobile Robot Navigation via Mobile Robotics Simulation Toolbox (A* Algorithm)
+［2021년 2학기 디지털제어및실험 Term Project］
 ## 1. Topic
 자신만의 맵을 만들고, 해당 맵상에서 로봇의 시작위치와 최종위치를 정의하여 내비게이션하기.
 ## 2. Concept
@@ -30,7 +31,7 @@
 <img src='./src/matlab_result.jpg'>
 
 #### (2) Simulation
-<img src='./src/simulation.gif'>
+<img src='./src/Simulation.gif '>
 
 ## 3. 사용법
 
@@ -38,7 +39,7 @@
 > MathWorks Student Competitions Team (2022). Mobile Robotics Simulation Toolbox (https://github.com/mathworks-robotics/mobile-robotics-simulation-toolbox), GitHub.
 ### 0-2) 관련 애드온 설치(GettingStarted.mlx > System Requirements 참고)
 ### 0-3) mobile-robotics-simulation-toolbox 폴더에 프로젝트 파일 옮기기
-### 0-4) startMobileRoboticsSimulationToolbox.m 열어서 실행 -> GettingStared.mlx 파일 열림
+### 0-4) startMobileRoboticsSimulationToolbox.m 열어서 실행 -> Gettingstarted.mlx 파일 열림
 
 ### 1) 흑백으로 이루어진 이미지(.png) 파일 준비(Black : Obstacle, White : Space)
 ### 2) MakeMap 폴더의 map_making.m 파일을 열어서 이미지 파일명 입력 후 실행
